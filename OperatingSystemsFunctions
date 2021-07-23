@@ -4,3 +4,6 @@ The File Management Function also decides which files will get resources and be 
 Another function of the OS is Processor Management
 In a multi-programming environment, it is OS who decides which process will get the processor when and for how long.
 This task is called Process Scheduling.
+Memory management keeps an eye on each and every memory location, in any case either it is allocated or it is not allocated.
+All the memory devices such as hard disk, pen drive etc. are managed by OS.
+The Operating System decides and checks which process will obtain memory and at what time.
